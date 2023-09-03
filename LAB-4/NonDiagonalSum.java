@@ -33,8 +33,6 @@ class NonDiagonalSum
     {
      if(i!=j)
      {
-     System.out.print(" the non diagonal elements are "+arr[i][j]);
-     
       k=arr[i][j]+k;
      }
      }
